@@ -65,6 +65,8 @@ Schematic
 The circuit is very simple.
 By connecting an USB Type-C charging cable to the TP4056 Module we charge the 18650 battery connected to the B+ and B- terminals of the module. The humidifier module connects to the OUT+ and OUT- terminals of the charging module via a SPDT switch. Using this switch we can turn on or off the humidifier.
 
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhODNDTWR1J9vmxZbIfzSLgi2sh_BPqim2iyV8nSLBROiKh6wClWDkqL16-Y9-_sq1udR3u-cnEOzrDPJZP8Yul4L2BBM7wjdRPQ7PVC5LJez5C63tBu4-y9O1zB4sDT7o_VaDJFJDfPXaMsnSvWtI3F6QQ3kadR9hvcMRgN1lHXswyQeukkwjzbJcyLzk/w640-h360/13.png)
+
 So, these are the components that were in the DIY Kit. A circular atomizer, two plastic holders, a straw and the main humidifier circuit board.
 I customized the board by adding a couple of male pin headers to power this unit using a battery and dropped a blob of solder to bypass the push button switch.
 
