@@ -12,7 +12,7 @@ I bought this AU$2 USB Mini Humidifier DIY Kit from AliExpress and went ahead an
 
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTsrtT4BGgH8xi7VI4RK4iH-u36TBbM0QhFfM_Aezvhe9eNua9yaXbjvcpiDvM5lZU7DvLxJvJLXxRBF3e_gVXuedbNxKcktCDDreA2aRCrok2KevHY1-2FXerlkMIkLJXUfSIwCj2q36novbPa1luOTG0uvF9XaF-6Erd2gqKJtzFz6wowb_svW7Lgl1/w640-h360/4.png)
 
-While browsing the Internet, I found this cute little candle holder created by SERV3D on Cults3D.com. The design was very cute and I went ahead and upsized and customized the design to fit all my electronics bits into it.
+While browsing the Internet, I found this cute little candle holder created by [SEREV3D](https://serev3d.com/) on [Cults3D.com](https://cults3d.com/en/3d-model/home/cute-medusa-candle-holder-serev3d). The design was very cute and I went ahead and upsized and customized the design to fit all my electronics bits into it.
 
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtKY8S0Pa49wTyMinuBItauiv3npmhFVjZ_i3nQJ3RSrQfuQF3cB-Es5rnHOo5CBBNUfbMuTRUc8F6ixnjoQDiZjEzZkZddWgvgkJFYrs_cdrJKUDRlHJOPgLaW-N8CMp1pF3U-BhFO1mGaN1sjfwuaLSjzSTxRcr4eq6rLAHJqATMCCyjTL3HmeIbcPN/w640-h360/5.png)
 
